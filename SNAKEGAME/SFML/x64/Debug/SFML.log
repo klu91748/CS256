@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\kevin\source\repos\sfml\sfml\main.cpp(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kevin\source\repos\sfml\sfml\main.cpp(132): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\kevin\source\repos\sfml\sfml\main.cpp(133): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kevin\source\repos\sfml\sfml\main.cpp(140): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kevin\source\repos\sfml\sfml\main.cpp(208): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\kevin\source\repos\sfml\sfml\main.cpp(216): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\kevin\source\repos\sfml\sfml\main.cpp(223): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\kevin\source\repos\sfml\sfml\main.cpp(228): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML.vcxproj -> C:\Users\Kevin\source\repos\SFML\x64\Debug\SFMLDemo.exe
